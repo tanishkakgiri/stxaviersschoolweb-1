@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: lightcoral;
+}
+
+H1 {
+    text-align: left;
+}
+
+stschool {
+    height: 900px;
+    width: 1000px;
+}
+
+.announcement {
+    background-color: darkcyan;
+}
